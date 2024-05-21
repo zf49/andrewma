@@ -9,7 +9,7 @@ const WhoAmI = () => {
       <section className='blog-out mb'>
         <Back name='Blog' title='Blog Grid - Our Blogs' cover={img} />
         <div className='container recent'>
-          your introduction/ 照片。。。。
+          your introduction/ 照片。。。。6666666666666666666
         </div>
       </section>
     </>
