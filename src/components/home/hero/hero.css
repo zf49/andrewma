@@ -63,3 +63,22 @@ form h4 {
     width: 100%;
   }
 }
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 根据需要调整高度 */
+}
+
+.container {
+  text-align: center;
+}
+
+.heading{
+  width: 100%;
+}
+
+
+.hero .container {
+  padding-top: 0;
+}

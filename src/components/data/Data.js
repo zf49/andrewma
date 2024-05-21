@@ -4,20 +4,20 @@ export const nav = [
     path: "/",
   },
   {
-    text: "about",
+    text: "about flatbush",
     path: "/about",
   },
   {
-    text: "services",
-    path: "/services",
+    text: "Listing",
+    path: "/listing",
   },
   {
     text: "blog",
     path: "/blog",
   },
   {
-    text: "pricing",
-    path: "/pricing",
+    text: "who am i",
+    path: "/who-am-i",
   },
   {
     text: "contact",
